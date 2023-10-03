@@ -281,7 +281,7 @@ a {
     border: 0;
 
     &:before,
-[O    &:after {
+    &:after {
       content: normal;
     }
   }
@@ -376,4 +376,3 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
-
