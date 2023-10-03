@@ -2,6 +2,52 @@
 layout: default
 ---
 
+Welcome to my website!
+
+I am stll experimenting around on how to use Github pages. So this is in its preliminary phase.
+
+# About Me
+
+I am a second year PhD student in the Oden Institute at University of Texas at Austin.
+I am majoring in Computational Science, Engineering, and Mathematics, and my research focus is in the domain of computational materials science.
+
+## Before Austin
+
+I grew up in the city of Mumbai, India, where I did my schooling and university.
+
+## Educational Background
+
+Bachelor of Technology; **Metallurgical Engineering and Materials Science**; IIT Bombay, India (2017-2022)
+_Minor: Electrical Engineering_
+_B.Tech Project: Computational Modelling of Czochralski Process_
+Master of Technology; **Mechanical Engineering**; IIT Bombay (2017-2022)
+_Specialization: Computer Aided Design and Automation_
+_Dual Degree Thesis: Thermal Conductivity in Low Dimensional Systems_
+
+## Undergraduate Life
+
+
+
+
+# Research
+
+I have worked on diverse projects throughout my academic life.
+
+## Electronic Transport Properties of 2D Materials
+
+## Thermal Conductivity of Low Dimensional Systems
+
+### Thermal Conductivity of Bi-Layer Graphene
+
+### Thermal Condcutivity in Fermi Pasta Ulam Tsingou (FPUT-\alpha) chain
+
+## CFD Modeling of Czochralski Method
+
+## FEM Modelling of Fracture Test Geometries
+
+## Student Satellite Team
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
