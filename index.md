@@ -52,7 +52,7 @@ _Dual Degree Thesis: Thermal Conductivity in Low Dimensional Systems_
 # Other pages
 
 LinekedIn: https://www.linkedin.com/in/abuzubair24/
-[LinkedIn](./https://www.linkedin.com/in/abuzubair24/).
+[LinkedIn](https://www.linkedin.com/in/abuzubair24/).
 
 # Research
 
