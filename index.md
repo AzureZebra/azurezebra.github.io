@@ -26,8 +26,30 @@ _Dual Degree Thesis: Thermal Conductivity in Low Dimensional Systems_
 
 ## Undergraduate Life
 
+# Teaching and Mentoring
+
+## Teaching
+
+### Intro to Math Modelling in Science And Engineering 1 (Fall 2023)
+
+### Microprocessor and Automation Lab (Fall 2021)
+
+### Strength of Materials (Spring 2022)
+
+### Engineering Drawing and Graphics (Fall 2019 and Spring 2020)
+
+## Mentoring
+
+### Institute Student Mentor, IIT Bombay (Academic Year 2020-2021)
+
+### Department Academic Mentor, IIT Bombay (AY 2019-20 and 2020-21)
 
 
+
+# Other pages
+
+LinekedIn: https://www.linkedin.com/in/abuzubair24/
+[LinkedIn](./https://www.linkedin.com/in/abuzubair24/).
 
 # Research
 
@@ -47,7 +69,7 @@ I have worked on diverse projects throughout my academic life.
 
 ## Student Satellite Team
 
-
+<!
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -62,9 +84,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> <!This is a blockquote following a header.
+><!
+><! When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
@@ -149,21 +171,11 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+<!
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
 The final element.
-```
+```>
