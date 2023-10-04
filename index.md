@@ -11,6 +11,9 @@ I am stll experimenting around on how to use Github pages. So this is in its pre
 I am a second year PhD student in the Oden Institute at University of Texas at Austin.
 I am majoring in Computational Science, Engineering, and Mathematics, and my research focus is in the domain of computational materials science.
 
+
+![Oden](https://oden.utexas.edu/static/components/assets/blue_block%402x.png)
+
 ## Before Austin
 
 I grew up in the city of Mumbai, India, where I did my schooling and university.
@@ -69,7 +72,7 @@ I have worked on diverse projects throughout my academic life.
 
 ## Student Satellite Team
 
-<!
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -84,9 +87,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-> <!This is a blockquote following a header.
-><!
-><! When something is important enough, you do it even if the odds are not in your favor.
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
@@ -162,7 +165,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Oden](https://oden.utexas.edu/static/components/assets/blue_block%402x.png)
 
 ### Large image
 
@@ -171,11 +174,10 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<!
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
 ```
 The final element.
-```>
+```
